@@ -1,5 +1,5 @@
-
-<!doctype html>
+<?php require("snmr.html");?>
+<!--<!doctype html>
 <html class="no-js" lang="">
     <head>
         <meta charset="utf-8">
@@ -22,7 +22,7 @@
         <!--[if lt IE 9]>
             <script src="js/vendor/html5-3.6-respond-1.4.2.min.js"></script>
         <![endif]-->
-    </head>
+   <!-- </head>
     <body>
     
     <div class="container">
@@ -60,7 +60,7 @@
       <footer>
        
       </footer>
-    </div> <!-- /container -->        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    </div> <!-- /container -->    <!--    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
 
         <script src="js/vendor/bootstrap.min.js"></script>
@@ -68,4 +68,4 @@
         <script src="js/plugins.js"></script>
         <script src="js/main.js"></script>
     </body>
-</html>
+</html>-->
